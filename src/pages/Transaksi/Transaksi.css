@@ -1,0 +1,26 @@
+.custom-transaksi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 210px) !important;
+    box-sizing: border-box;
+    height: auto;
+   
+}
+
+.card-custom{
+    width: 80%;
+}
+
+.bg-primary-custom{
+    background-color: #6699ff;
+}
+.bg-success-custom{
+    background-color: #33cc33;
+}
+.btn-custom{
+    background-color: #cc99ff !important;
+}
+.bg-warning-custom{
+    background-color: #ff9933;
+}

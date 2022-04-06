@@ -1,0 +1,16 @@
+.custom-FormTransaksi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 210px) !important;
+    box-sizing: border-box;
+    height: auto;
+   
+}
+
+.card-custom{
+    width: 80%;
+}
+.bg-secondary-custom{
+    background-color: brown !important; 
+}

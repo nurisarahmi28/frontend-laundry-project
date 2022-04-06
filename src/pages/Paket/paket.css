@@ -1,0 +1,17 @@
+.custom-paket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 210px) !important;
+    box-sizing: border-box;
+    height: auto;
+   
+}
+
+.card-custom{
+    width: 80%;
+}
+
+.btn-secondary{
+    background-color: red !important;
+}

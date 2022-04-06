@@ -1,0 +1,25 @@
+.custom-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 210px) !important;
+    box-sizing: border-box;
+    height: auto;
+    
+}
+/* .border-custom{
+    border-color: #FFBED8;
+} */
+.custom-center .border-primary{
+    border-color: #FFBED8 !important;
+}
+
+.custom-center .border-info{
+    border-color: #BAFFB4 !important;
+}
+.custom-center .border-warning{
+    border-color: #D6E5FA !important;
+}
+.custom-center .border-secondary{
+    border-color: #F0D290 !important;
+}
